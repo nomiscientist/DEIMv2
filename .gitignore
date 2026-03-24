@@ -107,7 +107,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -135,10 +134,11 @@ dmypy.json
 
 # PyCharm
 .idea
-.vscode/
 *.pt
 *.pth
 *.onnx
 *.zip
 *.html
 .DS_Store
+config.bat
+node_modules
